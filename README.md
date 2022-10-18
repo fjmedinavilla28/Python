@@ -1,7 +1,7 @@
 # Python 💚
-Un repositorio muy con ejercicios de Python 
+Un repositorio con ejercicios de Python 
 
-> Pytho es una excelenta herramienta que estoy comenzando a utilizar para hacer analítica de datos.
+> Python es una excelenta herramienta que estoy comenzando a utilizar para hacer analítica de datos.
 
 > - me gusta
 
@@ -11,5 +11,6 @@ Un repositorio muy con ejercicios de Python
 * Funciones
 * Tuplas
 * Listas
+* Conjuntos
 * ETC
 
